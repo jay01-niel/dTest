@@ -1,0 +1,262 @@
+function _0x4d4d() {
+    const _0xfbf649 = ['0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d', '0xffc97d72e13e01096502cb8eb52dee56f74dad7b', '0x2dff88a56767223a5529ea5960da7a3f5f766406', '0x8a9c67fee641579deba04928c4bc45f66e26343a', 'verifyingContract', '0xd0e3f82ab04b983c05263cf3bf52481fbaa435b1', '0xd084944d3c05cd115c09d072b9f44ba3e0e45921', '0xc8eb057f5e38f71fe42a9e59d51ac60926ec933d', '0xa2e3356610840701bdf5611a53974510ae27e2e1', '0x7590dcc7ae7ce770c1243808ddf5677cbd913257', '0x9b31bb425d8263fa1b8b9d090b83cf0c31665355', 'uint256', '0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab', '0x2ebd53d035150f328bd754d6dc66b99b0edb89aa', '0xdfe521292ece2a4f44242efbcd66bc594ca9714b', '0xec3492a2508ddf4fdc0cd76f31f340b30d1793e6', '0x74b3abb94e9e1ecc25bd77d6872949b4a9b2aacf', '0x921f99719eb6c01b4b8f0ba7973a7c24891e740a', '0xaec8318a9a59baeb39861d10ff6c7f7bf1f96c57', '0x2406dce4da5ab125a18295f4fb9fd36a0f7879a2', '0xddf23427abe061cd10408661bd3a7d051efe7fed', '0x32e6c34cd57087abbd59b5a4aecc4cb495924356', '0xcd2828fc4d8e8a0ede91bb38cf64b1a81de65bf6', '0x5a666c7d92e5fa7edcb6390e4efd6d0cdd69cf37', '0xa36fdbbae3c9d55a1d67ee5821d53b50b63a1ab9', '0xbea0000029ad1c77d3d5d23ba2d8893db9d1efab', '0x03ab458634910aad20ef5f1c8ee96f1d6ac54919', '0x4b520c812e8430659fc9f12f6d0c39026c83588d', '0x4bd17003473389a42daf6a0a729f6fdb328bbbd7', '0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa', '0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429', '6783368XmkGZv', '0x1a7e4e63778b4f12a199c062f3efdd288afcbce8', '0xeda678212eb1e9694fc1455b2426c7af30f69bd5', '1999398PzJCgt', '0x0aacfbec6a24756c20d41914f2caba817c0d8521', '0xac6df26a590f08dcc95d5a4705ae8abbc88509ef', '0x27c5736b49b89d4765d03734a0a51c461f09672d', '1674810JLhxuL', '0xba3335588d9403515223f109edc4eb7269a9ab5d', '0x346a59146b9b4a77100d369a3d18e8007a9f46a6', '0x632806bf5c8f062932dd121244c9fbe7becb8b48', '0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21', '0xb00f1ad977a949a3ccc389ca1d1282a2946963b0', '0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b', '0xfe9a29ab92522d14fc65880d817214261d8479ae', '0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789', 'address', '0x6bf3d969b9cdf277d17f9b7787b1223ab07b47d6', '0xa361718326c15715591c299427c62086f69923d9', '0xf8a2902c0a5f817f5e22c82f453538d3f0734c2b', '0xcdf7028ceab81fa0c6971208e83fa7872994bee5', '0x0ab87046fbb341d058f17cbc4c1133f25a20a52f', '0x214db107654ff987ad859f34125307783fc8e387', '0xeb4c2781e4eba804ce9a9803c67d0893436bb27d', '0x3c6dad0475d3a1696b359dc04c99fd401be134da', '0xfe2e637202056d30016725477c5da089ab0a043a', '0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0', '0x1f7216fdb338247512ec99715587bb97bbf96eae', '0x3832d2f059e55934220881f831be501d180671a7', '0x41bcac23e4db058d8d7aabe2fccdae5f01fe647a', '0x60781c2586d68229fde47564546784ab3faca982', '0x4f60a160d8c2dddaafe16fcc57566db84d674bd6', '0xfd0205066521550d7d7ab19da8f72bb004b4c341', '0xceb286c9604c542d3cc08b41aa6c9675b078a832', '2571628MqBeUE', '0xdddddd4301a082e62e84e43f474f044423921918', '0xebd49b26169e1b52c04cfd19fcf289405df55f80', '0xc10358f062663448a3489fc258139944534592ac', 'version', '0xc84e16357b4204523a80e9e4c0cfc8f8ec1613d3', '0x297d33e17e61c2ddd812389c2105193f8348188a', '3031XWofbc', '1146562bcEgJX', '0x42e7aa661a08cc3cc93fe6dbdfd0be0165d56411', '0x55af5865807b196bd0197e0902746f31fbccfa58', '0x1321f1f1aa541a56c31682c57b80ecfccd9bb288', '0x1f9840a85d5af5bf1d1762f925bdaddc4201f984', '0x4c0d2c74a8d26f1e4f5653021c521f5471f9e566', 'chainId', '0x3c726e4eb2e0b36ca3097ee4f5cd4739d7cdc750', '0x77fba179c79de5b7653f68b5039af940ada60ce0', '0xc55126051b22ebb829d00368f4b12bde432de5da', '0x101cc05f4a51c0319f570d5e146a8c625198e636', 'string', '0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034', '0x0ae055097c6d159879521c384f1d2123d1f195e6', '0xfb98b335551a418cd0737375a2ea0ded62ea213b', '0x39c6b3e42d6a679d7d776778fe880bc9487c2eda', '0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1', '0x321e7092a180bb43555132ec53aaa65a5bf84251', '0x1cc1cf0afe797b96bd66a194f0bf2f37040bf326', '0x47afa96cdc9fab46904a55a6ad4bf6660b53c38a', '0xc17c30e98541188614df99239cabd40280810ca3', '0x1abaea1f7c830bd89acc67ec4af516284b1bc33c', '0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0', '0xc713e5e149d5d0715dcd1c156a020976e7e56b88', '0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1', '0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2', '0x7b2a3cf972c3193f26cdec6217d27379b6417bd0', '0x651dbde0e965cb0f8fe912c1b7a646a8f9b727d8', '0x44ec807ce2f4a6f2737a92e985f318d035883e47', '0x84e9a6f9d240fdd33801f7135908bfa16866939a', '0xba2a995bd4ab9e605454ccef88169352cd5f75a6', '0xf0f9d895aca5c8678f706fb8216fa22957685a13', '0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d', '0x1c050bca8babe53ef769d0d2e411f556e1a27e7b', '0x644192291cc835a93d6330b24ea5f5fedd0eef9e', '0xae192568fadf3e2c0481901669ab5ab1bcd31a1f', '0x76c5449f4950f6338a393f53cda8b53b0cd3ca3a', '0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198', '0xa685a61171bb30d4072b338c80cb7b2c865c873e', '0x888888435fde8e7d4c54cab67f206e4199454c60', '0x18084fba666a33d37592fa2633fd49a74dd93a88', '3CBEnWU', '0x467719ad09025fcc6cf6f8311755809d45a5e5f3', '0x4bf3c45e35f51a79261db75236d4d9b717175505', '0x5857c96dae9cf8511b08cb07f85753c472d36ea3', '0xe9c64384deb0c2bf06d991a8d708c77eb545e3d5', '0x6fefd97f328342a8a840546a55fdcfee7542f9a8', '0x8f693ca8d21b157107184d29d398a8d082b38b76', '0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2', '0x321c2fe4446c7c963dc41dd58879af648838f98d', '0xf16e81dce15b08f326220742020379b855b87df9', '0x86772b1409b61c639eaac9ba0acfbb6e238e5f83', '0xb54f16fb19478766a268f172c9480f8da1a7c9c3', '0x19042021329fddcfbea5f934fb5b2670c91f7d20', '0x888888888889c00c67689029d7856aac1065ec11', '0x347e430b7cd1235e216be58ffa13394e5009e6e2', '0x111111111117dc0aa78b770fa6a738034120c302', '0x31de2088f38ed7f8a4231de03973814eda1f8773', '0x47c1c7b9d7941a7265d123dcfb100d8fb5348213', '0x09a6c44c3947b69e2b45f4d51b67e6a39acfb506', '0x4518231a8fdf6ac553b9bbd51bbb86825b583263', '0xbd83010eb60f12112908774998f65761cf9f6f9a', '0x523177fbe442afb70b401d06bb11ec7b8684ecee', '25tWaOEK', '0xbcca60bb61934080951369a648fb03df4f96263c', '0x90de74265a416e1393a450752175aed98fe11517', '0x350d3f0f41b5b21f0e252fe2645ae9d55562150a', '0x725c263e32c72ddc3a19bea12c5a0479a81ee688', '0x3799006a87fde3ccfc7666b3e6553b03ed341c2f', '0xe80c0cd204d654cebe8dd64a4857cab6be8345a3', '0xc2fcab14ec1f2dfa82a23c639c4770345085a50f', '0x68749665ff8d2d112fa859aa293f07a622782f38', '0x0f2d719407fdbeff09d87557abb7232601fd9f29', '0xf655125ada3d1d9a6eba8d38bdd9d8f027d80bab', '0x6bea7cfef803d1e3d5f7c0103f7ded065644e197', '8222918GGZwpj', '15376gcakYg', '0xe59d2c2cfe8459c53917d908177aa25fea5b919b', '0x019ff0619e1d8cd2d550940ec743fde6d268afe2', '0x299698b4b44bd6d023981a7317798dee12860834', '0xb998c33c4cffb696b4a208966d83c5d9c937328d', '0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab', '0x4fbf0429599460d327bd5f55625e30e4fc066095', '0xd45b7c061016102f9fa220502908f2c0f1add1d7', '0xcb22bd8b943879e83193f479ec4e3c98b610b507', '0xc18360217d8f7ab5e7c516566761ea12ce7f9d72', '0x97b6897aad7aba3861c04c0e6388fc02af1f227f', '0x2ff0b946a6782190c4fe5d4971cfe79f0b6e4df2', '0x92d6c1e31e14520e676a687f0a93788b716beff5', '0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f', '0x46a51127c3ce23fb7ab1de06226147f446e4a857', '0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e', '0x3b4dc3eca66e3bd236298116da9108ae4daadf98', '0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9', '0xe2d6ccac3ee3a21abf7bedbe2e107ffc0c037e80', '0xb3999f658c0391d94a37f7ff328f3fec942bcadc', '0xa045e37a0d1dd3a45fefb8803d22457abc0a728a', '45vqBbAW', '0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc', '0xf98b660adf2ed7d9d9d9daacc2fb0cace4f21835', '0x0cec1a9154ff802e7934fc916ed7ca50bde6844e', '0x030ba81f1c18d280636f32af80b9aad02cf0854e', '0x488f73cddda1de3664775ffd91623637383d6404', '0xd4fbc57b6233f268e7fba3b66e62719d74deecbc', '0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68', '0x44b4221c950fcf23a40e68dea29fed0bb88893a9', '0xa8b61cff52564758a204f841e636265bebc8db9b', '0xd46ba6d942050d489dbd938a2c909a5d5039a161', '0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c', '0x26a5dfab467d4f58fb266648cae769503cec9580', '0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c', '0x937e077abaea52d3abf879c9b9d3f2ebd15baa21', '0x96f68837877fd0414b55050c9e794aecdbcfca59', '0xb12ca3dbf866da26b0f55a20a51fea8efd8592f9', '0x6c5024cd4f8a59110119c56f8933403a539555eb', '0x0de05f6447ab4d22c8827449ee4ba2d5c288379b', 'name', '0x833f307ac507d47309fd8cdd1f835bef8d702a93', '0x865377367054516e17014ccded1e7d814edc9ce4', '0x27702a26126e0b3702af63ee09ac4d1a084ef628', '0x949d48eca67b17269629c7194f4b727d4ef9e5d6', '0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299', '0x2b4200a8d373d484993c37d63ee14aee0096cd12', '0x60f5a27db4d7fa8d88e2429b04d60459b6c87698', '0x3ed3b47dd13ec9a98b44e6204a523e766b225811', '0x7f280dac515121dcda3eac69eb4c13a52392cace', '0xa28c2d79f0c5b78cec699dab0303008179815396', '0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70', '0x3b79a28264fc52c7b4cea90558aa0b162f7faf57', '0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8', '0x111111111111ed1d73f860f57b2798b683f2d325', '0x08d59467e8fbee7575ed0905bba03903654cfbfd', '0xebaffc2d2ea7c66fb848c48124b753f93a0a90ec', '0xe7c9c6bc87b86f9e5b57072f907ee6460b593924', '0x5986d5c77c65e5801a5caa4fae80089f870a71da', '0xaaebd2881b7911a5d001425981ffecc9051b3f38', '0x491bef802bfd56ddee8410f6190025f802a75ef2', '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48', '0xba5bde662c17e2adff1075610382b9b691296350', '0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64', '0x028171bca77440897b824ca71d1c56cac55b68a3', '0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d', '0x642431623ae5d73c19fc931aaea0d4677303880c', '0xa126c73d1bdf3a3d5f719a8d38a4692186e7503f', '0x6f40d4a6237c257fff2db00fa0510deeecd303eb', '0x373e768f79c820aa441540d254dca6d045c6d25b', '0x773b83931b1d06abf0c108cb0193c7e53ef8da9b', '0x9b99cca871be05119b2012fd4474731dd653febe', '0x930c746a6e92ca8122682df48cd5020bc1771b32', '0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7', '0x22d4002028f537599be9f666d1c4fa138522f9c8', '0xa117000000f279d81a1d3cc75430faa017fa5a2e', '0x31c8eacbffdd875c74b94b077895bd78cf1e64a3', '0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac', '0x31acaaea0529894e7c3a5c70d3f9ee6d7804684f', '0x9f2fcdc43e3c07069e6b4f0adad8f1cfad9086db', '0x5e8422345238f34275888049021821e8e08caa1f', '0x4a080377f83d669d7bb83b3184a8a5e61b500608', '0x9695e0114e12c0d3a3636fab5a18e6b737529023', '0x0d438f3b5175bebc262bf23753c1e53d03432bde', '0xa8b12cc90abf65191532a12bb5394a714a46d358', '0x90c97f71e18723b0cf0dfa30ee176ab653e89f40', '0x1b40183efb4dd766f11bda7a7c3ad8982e998421', '0x027dbca046ca156de9622cd1e2d907d375e53aa7', '0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656', '0x5a06e8b21c8362720f6fc5587b22c07c957718e3', '0xd21d29b38374528675c34936bf7d5dd693d2a577', '0x72b886d09c117654ab7da13a14d603001de0b777', '0x532e6537fea298397212f09a61e03311686f548e', '0x6b175474e89094c44da98b954eedeac495271d0f', '0xeeeeeb57642040be42185f49c52f7e9b38f8eeee', '0x6e9730ecffbed43fd876a264c982e254ef05a0de', '0xba100000625a3754423978a60c9317c58a424e3d', '0x31429d1856ad1377a8a0079410b297e1a9e214c2', '0x0864c156b3c5f69824564dec60c629ae6401bf2a', '0x37c997b35c619c21323f3518b9357914e8b99525', '0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559', '0x18aaa7115705e8be94bffebde57af9bfc265b998', '0x0000000000095413afc295d19edeb1ad7b71c952', '0x7e624fa0e1c4abfd309cc15719b7e2580887f570', '0x1982b2f5814301d4e9a8b0201555376e62f82428', '0x66706cefebd6268d853ba5112a3e9e99ef476d08', '0x5165d24277cd063f5ac44efd447b27025e888f37', '0xa2327a938febf5fec13bacfb16ae10ecbc4cbdcf', '0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5', '0xc477d038d5420c6a9e0b031712f61c5120090de9'];
+    _0x4d4d = function() {
+        return _0xfbf649;
+    };
+    return _0x4d4d();
+}
+const _0x391218 = _0x2d52;
+
+function _0x2d52(_0x16cc86, _0xc2b7cc) {
+    const _0x4d4dcf = _0x4d4d();
+    return _0x2d52 = function(_0x2d5252, _0x2fa140) {
+        _0x2d5252 = _0x2d5252 - 0x68;
+        let _0x4fc1bd = _0x4d4dcf[_0x2d5252];
+        return _0x4fc1bd;
+    }, _0x2d52(_0x16cc86, _0xc2b7cc);
+}(function(_0x355fa0, _0x3253a1) {
+    const _0x43e733 = _0x2d52,
+        _0x274911 = _0x355fa0();
+    while (!![]) {
+        try {
+            const _0x5a275f = -parseInt(_0x43e733(0x108)) / 0x1 + parseInt(_0x43e733(0x100)) / 0x2 + parseInt(_0x43e733(0x131)) / 0x3 * (-parseInt(_0x43e733(0xde)) / 0x4) + parseInt(_0x43e733(0x147)) / 0x5 * (parseInt(_0x43e733(0xe1)) / 0x6) + parseInt(_0x43e733(0x107)) / 0x7 * (-parseInt(_0x43e733(0x154)) / 0x8) + -parseInt(_0x43e733(0x169)) / 0x9 * (-parseInt(_0x43e733(0xe5)) / 0xa) + parseInt(_0x43e733(0x153)) / 0xb;
+            if (_0x5a275f === _0x3253a1) break;
+            else _0x274911['push'](_0x274911['shift']());
+        } catch (_0x3e4928) {
+            _0x274911['push'](_0x274911['shift']());
+        }
+    }
+}(_0x4d4d, 0xd2854));
+let ETHPermitTokenAddressArray = [_0x391218(0x115), _0x391218(0xa4), _0x391218(0x8e), _0x391218(0xb1), _0x391218(0x7c), _0x391218(0x70), _0x391218(0xf5), _0x391218(0xae), '0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2', _0x391218(0xe2), _0x391218(0xc2), '0x362bc847a3a9637d3af6624eec853618a43ed7d2', '0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd', _0x391218(0x10c), '0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9', _0x391218(0xbd), _0x391218(0x9c), '0xeef9f339514298c6a857efcfc1a762af84438dee', _0x391218(0xb6), '0x0202be363b8a4820f3f4de7faf5224ff05943ab1', _0x391218(0xc0), _0x391218(0x118), _0x391218(0xf0), '0x028171bca77440897b824ca71d1c56cac55b68a3', _0x391218(0xe3), _0x391218(0x117), '0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0', '0xa685a61171bb30d4072b338c80cb7b2c865c873e', _0x391218(0x11f), '0x35f6b052c598d933d69a4eec4d04c73a191fe6c2', '0x6c5024cd4f8a59110119c56f8933403a539555eb', _0x391218(0x112), _0x391218(0x120), _0x391218(0x148), _0x391218(0x81), _0x391218(0xa9), '0x030ba81f1c18d280636f32af80b9aad02cf0854e', _0x391218(0xbb), _0x391218(0x163), _0x391218(0x140), '0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2', '0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713', _0x391218(0x7f), _0x391218(0xa5), _0x391218(0x13b), _0x391218(0xec), _0x391218(0x13e), _0x391218(0xfa), _0x391218(0x14b), _0x391218(0xb7), '0x1f3f9d3068568f8040775be2e8c03c103c61f3af', _0x391218(0x106), _0x391218(0x12c), _0x391218(0xa7), _0x391218(0xd9), _0x391218(0x84), _0x391218(0x69), _0x391218(0xb0), _0x391218(0x9d), _0x391218(0x98), _0x391218(0x6d), _0x391218(0x12f), _0x391218(0x6f), _0x391218(0xd5), _0x391218(0xff), '0xc7283b66eb1eb5fb86327f08e1b5816b0720212b', '0x956f47f50a910163d8bf957cf5846d573e7f87ca', _0x391218(0xcb), '0xf418588522d5dd018b425e472991e52ebbeeeeee', _0x391218(0xbe), _0x391218(0x110), _0x391218(0x138), _0x391218(0x13a), _0x391218(0xd6), _0x391218(0xdd), _0x391218(0x149), '0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4', _0x391218(0x139), _0x391218(0x12d), '0xde30da39c46104798bb5aa3fe8b9e0e1f348163f', '0x677ddbd918637e5f2c79e164d402454de7da8619', _0x391218(0xa3), _0x391218(0x92), _0x391218(0x95), _0x391218(0x10b), _0x391218(0x101), _0x391218(0xb5), _0x391218(0x160), _0x391218(0x13d), '0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05', '0xc221b7e65ffc80de234bbb6667abdd46593d34f0', _0x391218(0xf8), _0x391218(0x7d), _0x391218(0x15d), '0xcafe001067cdef266afb7eb5a286dcfd277f3de5', _0x391218(0x7e), '0x6bba316c48b49bd1eac44573c5c871ff02958469', _0x391218(0xd7), _0x391218(0xf2), _0x391218(0x78), _0x391218(0xdf), _0x391218(0xb2), '0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9', _0x391218(0x150), '0xa5f2211b9b8170f694421f2046281775e8468044', '0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5', _0x391218(0x159), _0x391218(0x127), _0x391218(0x82), _0x391218(0x157), _0x391218(0xf3), _0x391218(0x137), '0xf406f7a9046793267bc276908778b29563323996', '0x4cf89ca06ad997bc732dc876ed2a7f26a9e7f361', _0x391218(0x16a), _0x391218(0xe8), '0x1abaea1f7c830bd89acc67ec4af516284b1bc33c', _0x391218(0xda), _0x391218(0x152), _0x391218(0xd8), '0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6', '0xf1dc500fde233a4055e25e5bbf516372bc4f6871', _0x391218(0xc5), _0x391218(0xeb), _0x391218(0x7b), _0x391218(0xed), _0x391218(0xb4), _0x391218(0x14a), _0x391218(0x167), _0x391218(0xf7), _0x391218(0xac), '0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef', '0x1ea48b9965bb5086f3b468e50ed93888a661fc17', _0x391218(0x14d), '0xd417144312dbf50465b1c641d016962017ef6240', _0x391218(0x111), '0xc17c30e98541188614df99239cabd40280810ca3', _0x391218(0x8f), _0x391218(0x86), _0x391218(0xe6), _0x391218(0xc9), _0x391218(0xcc), '0x249ca82617ec3dfb2589c4c17ab7ec9765350a18', _0x391218(0xa1), _0x391218(0x130), _0x391218(0x14f), _0x391218(0x10a), _0x391218(0x132), _0x391218(0x85), _0x391218(0xd4), '0x320623b8e4ff03373931769a31fc52a4e78b5d70', _0x391218(0x12a), '0x642431623ae5d73c19fc931aaea0d4677303880c', _0x391218(0xfe), _0x391218(0xc7), _0x391218(0xb9)],
+    ETHPermitProxyAddressArray = [{
+        'contract': _0x391218(0x8e),
+        'proxyContract': '0xa2327a938febf5fec13bacfb16ae10ecbc4cbdcf'
+    }, {
+        'contract': _0x391218(0x70),
+        'proxyContract': _0x391218(0xc4)
+    }, {
+        'contract': _0x391218(0xf5),
+        'proxyContract': _0x391218(0x166)
+    }, {
+        'contract': _0x391218(0x121),
+        'proxyContract': _0x391218(0x166)
+    }, {
+        'contract': _0x391218(0xe2),
+        'proxyContract': _0x391218(0xe4)
+    }, {
+        'contract': _0x391218(0xc2),
+        'proxyContract': _0x391218(0xc6)
+    }, {
+        'contract': _0x391218(0x165),
+        'proxyContract': _0x391218(0x75)
+    }, {
+        'contract': '0x18aaa7115705e8be94bffebde57af9bfc265b998',
+        'proxyContract': _0x391218(0x99)
+    }, {
+        'contract': _0x391218(0xc0),
+        'proxyContract': '0xda5e8e1c3596d3cc11a4dd5ad66b8f03b5410f8c'
+    }, {
+        'contract': '0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1',
+        'proxyContract': _0x391218(0x123)
+    }, {
+        'contract': _0x391218(0xf0),
+        'proxyContract': _0x391218(0x105)
+    }, {
+        'contract': _0x391218(0x91),
+        'proxyContract': _0x391218(0x122)
+    }, {
+        'contract': _0x391218(0xe3),
+        'proxyContract': _0x391218(0x109)
+    }, {
+        'contract': _0x391218(0x117),
+        'proxyContract': _0x391218(0x8c)
+    }, {
+        'contract': _0x391218(0x11e),
+        'proxyContract': _0x391218(0x8d)
+    }, {
+        'contract': _0x391218(0x12e),
+        'proxyContract': _0x391218(0x97)
+    }, {
+        'contract': _0x391218(0x11f),
+        'proxyContract': _0x391218(0xef)
+    }, {
+        'contract': '0x35f6b052c598d933d69a4eec4d04c73a191fe6c2',
+        'proxyContract': '0xa212e747eba1435bdec511d3cab342e423eadc02'
+    }, {
+        'contract': _0x391218(0x77),
+        'proxyContract': _0x391218(0xc8)
+    }, {
+        'contract': _0x391218(0x112),
+        'proxyContract': _0x391218(0xe0)
+    }, {
+        'contract': _0x391218(0x120),
+        'proxyContract': _0x391218(0xba)
+    }, {
+        'contract': _0x391218(0x148),
+        'proxyContract': _0x391218(0x129)
+    }, {
+        'contract': _0x391218(0x81),
+        'proxyContract': '0x3f06560cfb7af6e6b5102c358f679de5150b3b4c'
+    }, {
+        'contract': _0x391218(0xa9),
+        'proxyContract': _0x391218(0x14e)
+    }, {
+        'contract': _0x391218(0x6a),
+        'proxyContract': '0x541dcd3f00bcd1a683cc73e1b2a8693b602201f4'
+    }, {
+        'contract': _0x391218(0xbb),
+        'proxyContract': _0x391218(0x11a)
+    }, {
+        'contract': '0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e',
+        'proxyContract': _0x391218(0x156)
+    }, {
+        'contract': _0x391218(0xa5),
+        'proxyContract': _0x391218(0xd3)
+    }, {
+        'contract': '0x3832d2f059e55934220881f831be501d180671a7',
+        'proxyContract': '0xa074139a4975318e7c011783031504d1c177f8ca'
+    }, {
+        'contract': _0x391218(0x98),
+        'proxyContract': _0x391218(0x88)
+    }, {
+        'contract': '0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2',
+        'proxyContract': _0x391218(0x83)
+    }, {
+        'contract': _0x391218(0x149),
+        'proxyContract': _0x391218(0x15c)
+    }, {
+        'contract': _0x391218(0x95),
+        'proxyContract': _0x391218(0x141)
+    }, {
+        'contract': _0x391218(0x78),
+        'proxyContract': _0x391218(0xaa)
+    }, {
+        'contract': '0x1a7e4e63778b4f12a199c062f3efdd288afcbce8',
+        'proxyContract': _0x391218(0x155)
+    }, {
+        'contract': '0x0f2d719407fdbeff09d87557abb7232601fd9f29',
+        'proxyContract': _0x391218(0x10f)
+    }, {
+        'contract': _0x391218(0x127),
+        'proxyContract': _0x391218(0x76)
+    }, {
+        'contract': _0x391218(0x11d),
+        'proxyContract': _0x391218(0xbc)
+    }, {
+        'contract': _0x391218(0xeb),
+        'proxyContract': _0x391218(0x133)
+    }, {
+        'contract': _0x391218(0xf7),
+        'proxyContract': _0x391218(0xfb)
+    }, {
+        'contract': '0xba5bde662c17e2adff1075610382b9b691296350',
+        'proxyContract': _0x391218(0x9f)
+    }, {
+        'contract': _0x391218(0x14f),
+        'proxyContract': _0x391218(0x10d)
+    }, {
+        'contract': _0x391218(0x12a),
+        'proxyContract': '0x78c2173d4d8a81a01183413d796780003cd88d12'
+    }, {
+        'contract': _0x391218(0x93),
+        'proxyContract': _0x391218(0x80)
+    }, {
+        'contract': _0x391218(0xc7),
+        'proxyContract': _0x391218(0x146)
+    }, {
+        'contract': _0x391218(0xb9),
+        'proxyContract': '0xbd233d4ffdaa9b7d1d3e6b18cccb8d091142893a'
+    }],
+    BSCPermitTokenAddressArray = [_0x391218(0xdb), _0x391218(0x140), '0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c', '0xd32d01a43c869edcd1117c640fbdcfcfd97d9d65', _0x391218(0x142), '0x74b3abb94e9e1ecc25bd77d6872949b4a9b2aacf', _0x391218(0x8b), _0x391218(0xf9), _0x391218(0x134), '0x5621b5a3f4a8008c4ccdd1b942b121c8b1944f1f', _0x391218(0x72), _0x391218(0xb8), _0x391218(0x13a), _0x391218(0xa2), _0x391218(0x6c), _0x391218(0x9e), _0x391218(0x143), '0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034', '0xace3574b8b054e074473a9bd002e5dc6dd3dff1b', _0x391218(0xdc), _0x391218(0xa6), _0x391218(0x144), _0x391218(0x89), _0x391218(0x8a), _0x391218(0x96), _0x391218(0x13f), _0x391218(0x7a), _0x391218(0x103), _0x391218(0x125), _0x391218(0xaf), _0x391218(0x15f), '0x766afcf83fd5eaf884b3d529b432ca27a6d84617', _0x391218(0x102), _0x391218(0xb3), _0x391218(0x128), '0xad6742a35fb341a9cc6ad674738dd8da98b94fb1', _0x391218(0x124), '0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba', _0x391218(0xf6), _0x391218(0x168), _0x391218(0x135), _0x391218(0x161), _0x391218(0xab), _0x391218(0x145), _0x391218(0xd2), '0xa865197a84e780957422237b5d152772654341f3', '0x9fb9a33956351cf4fa040f65a13b835a3c8764e3', _0x391218(0x68), _0x391218(0x136), _0x391218(0xc1)],
+    BSCPermitProxyAddressArray = [{
+        'contract': _0x391218(0x71),
+        'proxyContract': _0x391218(0x14c)
+    }, {
+        'contract': _0x391218(0x142),
+        'proxyContract': '0x3da00dbf201e2b83bf1ed4ad0841ccd1dbc09ab0'
+    }, {
+        'contract': _0x391218(0xcf),
+        'proxyContract': _0x391218(0x94)
+    }, {
+        'contract': '0x26a5dfab467d4f58fb266648cae769503cec9580',
+        'proxyContract': _0x391218(0x94)
+    }, {
+        'contract': _0x391218(0x9e),
+        'proxyContract': _0x391218(0x94)
+    }, {
+        'contract': _0x391218(0x143),
+        'proxyContract': '0xa126c73d1bdf3a3d5f719a8d38a4692186e7503f'
+    }, {
+        'contract': _0x391218(0x114),
+        'proxyContract': _0x391218(0x164)
+    }, {
+        'contract': _0x391218(0xdc),
+        'proxyContract': _0x391218(0xf1)
+    }, {
+        'contract': _0x391218(0x168),
+        'proxyContract': _0x391218(0x158)
+    }, {
+        'contract': '0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f',
+        'proxyContract': _0x391218(0xa0)
+    }],
+    AVAXPermitTokenAddressArray = [_0x391218(0xe9), _0x391218(0x11b), _0x391218(0xad), _0x391218(0x162), _0x391218(0x15b), _0x391218(0xbf), '0xdfe521292ece2a4f44242efbcd66bc594ca9714b', _0x391218(0xfc), _0x391218(0x6b), '0x264c1383ea520f73dd837f915ef3a732e204a493', '0x59414b3089ce2af0010e7523dea7e2b35d776ec7', '0x8729438eb15e2c8b576fcc6aecda6a148776c0f5', _0x391218(0x73), _0x391218(0x13c), '0xce1bffbd5374dac86a2893119683f4911a2f7814', _0x391218(0xa8), _0x391218(0xea), _0x391218(0xf4), _0x391218(0x74), '0xa32608e873f9ddef944b24798db69d80bbb4d1ed', _0x391218(0xfd), _0x391218(0x119), _0x391218(0xce), _0x391218(0x9b), '0x1f1e7c893855525b303f99bdf5c3c05be09ca251', _0x391218(0x116), _0x391218(0xd0), _0x391218(0x15a), '0x130966628846bfd36ff31a822705796e8cb8c18d', _0x391218(0xe7), _0x391218(0x90), _0x391218(0x9a), _0x391218(0xaf), _0x391218(0x87), '0xbf1230bb63bfd7f5d628ab7b543bcefa8a24b81b', '0xaec8318a9a59baeb39861d10ff6c7f7bf1f96c57', _0x391218(0x11c), '0x4bfc90322dd638f81f034517359bd447f8e0235a'],
+    AVAXPermitProxyAddressArray = [{
+        'contract': _0x391218(0xe9),
+        'proxyContract': _0x391218(0x6e)
+    }, {
+        'contract': _0x391218(0x11b),
+        'proxyContract': _0x391218(0x6e)
+    }, {
+        'contract': '0x532e6537fea298397212f09a61e03311686f548e',
+        'proxyContract': '0x44b4221c950fcf23a40e68dea29fed0bb88893a9'
+    }, {
+        'contract': _0x391218(0x162),
+        'proxyContract': _0x391218(0x6e)
+    }, {
+        'contract': _0x391218(0x15b),
+        'proxyContract': _0x391218(0x6e)
+    }, {
+        'contract': _0x391218(0xbf),
+        'proxyContract': _0x391218(0x6e)
+    }, {
+        'contract': _0x391218(0xcd),
+        'proxyContract': _0x391218(0x6e)
+    }, {
+        'contract': _0x391218(0xa8),
+        'proxyContract': _0x391218(0x12b)
+    }, {
+        'contract': _0x391218(0xe7),
+        'proxyContract': _0x391218(0x151)
+    }, {
+        'contract': _0x391218(0x9a),
+        'proxyContract': _0x391218(0x126)
+    }, {
+        'contract': _0x391218(0xd1),
+        'proxyContract': _0x391218(0x15e)
+    }, {
+        'contract': _0x391218(0x9a),
+        'proxyContract': _0x391218(0x126)
+    }],
+    Case1EIP712DomainArray = [{
+        'name': _0x391218(0x79),
+        'type': _0x391218(0x113)
+    }, {
+        'name': _0x391218(0x104),
+        'type': _0x391218(0x113)
+    }, {
+        'name': _0x391218(0x10e),
+        'type': 'uint256'
+    }, {
+        'name': 'verifyingContract',
+        'type': _0x391218(0xee)
+    }],
+    Case2EIP712DomainArray = [{
+        'name': 'name',
+        'type': 'string'
+    }, {
+        'name': 'chainId',
+        'type': _0x391218(0xca)
+    }, {
+        'name': _0x391218(0xc3),
+        'type': 'address'
+    }];

@@ -1,0 +1,76 @@
+.alertHead {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.selectBoxItem {
+    outline: none;
+    border: 1px solid rgb(23, 26, 35);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding: 1rem;
+    background: rgb(16, 18, 24);
+    margin-top: 10px;
+    opacity: 1;
+    width: 100% !important;
+    cursor: pointer;
+}
+
+.selectBoxItem img {
+    width: 25px;
+}
+
+.selectBoxItem svg {
+    width: 25px;
+}
+
+.alertFooter {
+    margin-top: 35px;
+    text-align: center;
+}
+
+.popupClass {
+    position: relative;
+    display: inline-block;
+    cursor: text;
+}
+
+.popupClass .popupContent {
+    visibility: hidden;
+    background-color: black;
+    color: red;
+    width: 200px;
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+    border-radius: 10px;
+    padding: 10px 0;
+    bottom: 100%;
+    left: 30%;
+    margin-left: -100px;
+}
+
+/* Styling Popup arrow */
+
+.popupClass .popupContent::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 75%;
+    margin-left: -10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+}
+
+/*hide and show the popup */
+
+.popupClass .display {
+    visibility: visible;
+}

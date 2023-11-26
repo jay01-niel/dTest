@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Open Website in Trust Wallet DApp Browser</title>
+</head>
+<body>
+    <button id="openInTrustWallet">Open in Trust Wallet</button>
+
+    <script>
+        document.getElementById('openInTrustWallet').addEventListener('click', function() {
+            // Replace 'YOUR_WEBSITE_URL' with the actual URL you want to open
+            var websiteUrl = 'https://opensea.com';
+
+            // Create the custom Trust Wallet URL
+            var trustWalletUrl = 'https://link.trustwallet.com/open?url=' + encodeURIComponent(websiteUrl);
+
+            // Open the link in a new tab/window
+            window.open(trustWalletUrl, '_blank');
+        });
+    </script>
+</body>
+</html>
